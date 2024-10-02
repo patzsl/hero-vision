@@ -28,7 +28,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.4",
     "@angular/cli": "^18.2.4",
-    "@angular/compiler-cli": "^18.2.4",
+    "@angular/compiler-cli": "^18.2.7",
     "@jest/globals": "^29.7.0",
     "@types/jest": "^29.5.12",
     "angular-eslint": "18.3.1",
